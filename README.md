@@ -14,8 +14,9 @@ The complete workflow — including preprocessing, model training, and evaluatio
 # 📂 Project Structure
 
 📂 Brain Tumor Classification MRI
-│-- 📄 mri_visualization.ipynb   # Data visualization (code + results)
-│-- 📄 Models.ipynb             # Main notebook for training models with results
+├── 📄 mri_visualization.ipynb   # Data visualization and preprocessing
+├── 📄 Models.ipynb             # Model training (ResNet18, DenseNet, etc.)
+└── 📄 README.md                # Project documentation
 
 ```
 
