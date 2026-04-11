@@ -12,7 +12,7 @@ The complete workflow — including preprocessing, model training, and evaluatio
 - ⚡ Easy to run and understand
 
 # 📂 Project Structure
-
+``` Bash
 📂 Brain Tumor Classification MRI
 ├── 📄 mri_visualization.ipynb   # Data visualization and preprocessing
 ├── 📄 Models.ipynb             # Model training (ResNet18, DenseNet, etc.)
