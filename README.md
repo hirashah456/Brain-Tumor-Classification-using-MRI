@@ -32,8 +32,8 @@ The complete workflow — including preprocessing, model training, and evaluatio
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/hirashah456/Brain-Tumor-Classification-using-MRI.git
+cd Brain-Tumor-Classification-using-MRI
 ```
 Install dependencies:
 ```bash
