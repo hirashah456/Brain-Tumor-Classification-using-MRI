@@ -12,8 +12,12 @@ The complete workflow — including preprocessing, model training, and evaluatio
 - ⚡ Easy to run and understand
 
 # 📂 Project Structure
-- mri.ipynb    # Data visualization (code + results)
-- Models.ipynb # classification models
+
+- ``bash
+📂 Brain Tumor Classification MRI
+│-- 📄 mri_visulization.ipynb      # Data visualization (code + results)
+│-- 📄  Models.ipynb               #  Main notebook for training models with results
+```
 
 # 🛠️ Tech Stack
 - Python 3.x
