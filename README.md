@@ -14,9 +14,11 @@ The complete workflow — including preprocessing, model training, and evaluatio
 # 📂 Project Structure
 
 - ``bash
+
 📂 Brain Tumor Classification MRI
 │-- 📄 mri_visulization.ipynb      # Data visualization (code + results)
 │-- 📄  Models.ipynb               #  Main notebook for training models with results
+
 ```
 
 # 🛠️ Tech Stack
