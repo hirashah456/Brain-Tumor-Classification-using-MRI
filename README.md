@@ -6,7 +6,55 @@ The complete workflow — including preprocessing, model training, and evaluatio
 
 # ✨ Key Highlights
 
-- ** 📊 End-to-end implementation in one notebook
-- ** 🧠 Deep learning-based classification
-_ ** 📈 Performance evaluation with visualizations
-_ ** ⚡ Easy to run and understand
+- 📊 End-to-end implementation in one notebook
+- 🧠 Deep learning-based classification
+- 📈 Performance evaluation with visualizations
+- ⚡ Easy to run and understand
+
+# 📂 Project Structure
+- mri.ipynb   # Main notebook (all code + results)
+
+# 🛠️ Tech Stack
+- Python 3.x
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- TensorFlow / PyTorch
+
+  # ⚙️ Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+Install dependencies:
+```bash
+pip install numpy pandas matplotlib tensorflow
+```
+pip install numpy pandas matplotlib tensorflow
+
+# ▶️ Usage
+1. Launch Jupyter Notebook:
+- jupyter notebook
+- Open mri.ipynb
+- Run all cells step by step
+
+# 📊 Results
+- Model accuracy and loss graphs are included inside the notebook
+- Performance improves with training and tuning
+
+ # 🚀 Future Improvements
+- 🔍 Hyperparameter tuning
+- 🧠 Try advanced models (ResNet, DenseNet)
+- 🌐 Deploy as a web app (Streamlit/Flask)
+
+  # 🤝 Contributing
+  Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+  # 📧 Contact
+If you have any questions or suggestions, feel free to reach out.
+
+# ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
