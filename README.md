@@ -12,7 +12,7 @@ The complete workflow — including preprocessing, model training, and evaluatio
 - ⚡ Easy to run and understand
 
 # 📂 Project Structure
-- mri.ipynb   # Data visualization (code + results)
+- mri.ipynb    # Data visualization (code + results)
 - Models.ipynb # classification models
 
 # 🛠️ Tech Stack
