@@ -43,7 +43,7 @@ pip install numpy pandas matplotlib tensorflow
 
 # ▶️ Usage
 1. Launch Jupyter Notebook:
-- jupyter notebooks.
+- jupyter notebooks
 - Open mri_visualization.ipynb
 - Run all cells step by step to check the dataset
 - Now open Models.ipynb which is main notebook of models training on MRI dataset
