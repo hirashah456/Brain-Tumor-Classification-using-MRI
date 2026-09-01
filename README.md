@@ -61,7 +61,7 @@ pip install numpy pandas matplotlib tensorflow
   Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
   # 📧 Contact
-If you have any questions or suggestions, feel free to reach out.
+If you have any questions or suggestions, feel free to reach out
 
 # ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
